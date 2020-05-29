@@ -1,6 +1,6 @@
 <h1>News_Scrapy</h1>
 <hr>
-<h2>Small Code to Scrape News Articles from inshorts based on keywords provided and store into MongoDB Database</h2>
+<h2>Small Code to Scrape News Articles using BeautifulSoups from inshorts based on keywords provided and store into MongoDB Database</h2>
 <h3>Future Scope Heroku Deployment </h3>
 <hr>
 <hr>
